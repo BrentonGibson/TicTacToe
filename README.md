@@ -1,7 +1,7 @@
 <h1>🕹️ TicTacToe</h1>
 
 <h2>Description</h2>
-Created a full-featured scientific calculator using Java in the Eclipse IDE, capable of performing basic arithmetic operations and a few scientific functions like square root, exponentiation, and trigonometric functions.
+Created TicTacToe using Java in the Eclipse IDE. The game code allows two players to take turns marking their X and O on a 3x3 grid until one of them wins or the game ends in a draw. 
 <br />
 
 <h2>Languages and Utilities Used</h2>
